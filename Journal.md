@@ -2,7 +2,8 @@
 ### A journal for the reviewers about the development process of the game
 ---
 
-## 20/11/2026
+## 20/11/2026  
+Entry 1  
 Found out about journal.md from stelle lol
 
 Until now, most of the stuff had been building and modelling of the first 6-7 stages
@@ -30,3 +31,5 @@ A localscript makes the cloud/rainbow transparent in about 2 seconds when player
 <img width="842" height="534" alt="image" src="https://github.com/user-attachments/assets/7e8149b8-089b-4561-929f-327d294dd702" />
 
 The red parts are killbricks, touching them kills u, it has a debounce too.
+
+### Hackatime hours: 2h 46m

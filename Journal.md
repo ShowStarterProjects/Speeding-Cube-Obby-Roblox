@@ -26,10 +26,39 @@ When you touch a new checkpoint, it plays a ding sound, changes the checkpoint m
 
 A localscript makes the cloud/rainbow transparent in about 2 seconds when player jumps on it, turns CanCollide false at transparency 1, and in 4 seconds, the platform comes back.
 
-### Stage 4: Binary hacker level ouu
+### Stage 4: Binary hacker stage ouu
 
 <img width="842" height="534" alt="image" src="https://github.com/user-attachments/assets/7e8149b8-089b-4561-929f-327d294dd702" />
 
 The red parts are killbricks, touching them kills u, it has a debounce too.
 
 ### Hackatime hours: 2h 46m
+---
+
+## 22/11/2026
+Entry 2
+Small Progress/updates, no new stages  
+
+### Re-done Stage 4: Ouuu binary flashing hackerr stage  
+
+<img width="838" height="332" alt="image" src="https://github.com/user-attachments/assets/f69fcb81-d23a-4621-8dd3-c170eb31a919" />
+
+The platforms are now divided into 2 groups, they alternatively become intangible and gray
+
+### Re-done Stage 3: Planet leaps
+
+<img width="783" height="453" alt="image" src="https://github.com/user-attachments/assets/30d1b065-347f-4e53-9448-3c7030876787" />
+
+Instead of boring normal jumps, your gravity becomes lower for the stage and then reverts once u move to the next stage
+
+### New feature to Stage 6: Furniture
+
+<img width="820" height="507" alt="image" src="https://github.com/user-attachments/assets/5f35fcd9-d7cd-43eb-aa59-be276ca98378" />
+
+One of these pieces of furniture isnt very stable, it may fall
+
+### New feature to Stage 7: Crossy Highway
+
+<img width="915" height="549" alt="image" src="https://github.com/user-attachments/assets/e23cd7d7-592b-4e81-82f1-6a334d355f9b" />
+
+Theres an oil spill which makes u trip over for a few seconds, jumping over the cars is a smarter move
